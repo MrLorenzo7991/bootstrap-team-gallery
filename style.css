@@ -1,0 +1,31 @@
+/*header*/   
+    .centrato{
+        text-align: center;
+    }
+    #titolo{
+        font-size: x-large;
+        font-weight: 600;
+        color: rgb(38, 142, 94);
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    #citazione{
+        font-weight: 550;
+    }
+    #michael{
+        color: grey;
+        font-size: small;
+        margin-bottom: 35px;
+    }
+/*Main*/
+    .nome{
+        font-size: large;
+        font-weight: 550;
+        color: rgb(25,135,84);
+        margin-top: 10px;
+    }
+    .professione{
+        color: gray;
+        font-weight: 550;
+        margin-bottom: 5px;
+    }
